@@ -1,0 +1,9 @@
+/Users/francesco/git/grocery-service/src/main/java/org/frusso/groceryservice/domain/Product.java
+/Users/francesco/git/grocery-service/src/main/java/org/frusso/groceryservice/controller/rest/errorhandling/GroceryEmptyException.java
+/Users/francesco/git/grocery-service/src/main/java/org/frusso/groceryservice/domain/Grocery.java
+/Users/francesco/git/grocery-service/src/main/java/org/frusso/groceryservice/parser/GroceryParser.java
+/Users/francesco/git/grocery-service/src/main/java/org/frusso/groceryservice/GroceryServiceApplication.java
+/Users/francesco/git/grocery-service/src/main/java/org/frusso/groceryservice/controller/rest/GroceryServiceRESTful.java
+/Users/francesco/git/grocery-service/src/main/java/org/frusso/groceryservice/ServletInitializer.java
+/Users/francesco/git/grocery-service/src/main/java/org/frusso/groceryservice/config/GroceryServiceConfig.java
+/Users/francesco/git/grocery-service/src/main/java/org/frusso/groceryservice/controller/rest/errorhandling/ServiceError.java
